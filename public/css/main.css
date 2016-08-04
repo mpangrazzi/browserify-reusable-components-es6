@@ -1,0 +1,25 @@
+#app {
+  max-width: 80%;
+  margin: 10px auto;
+  border-radius: 5px;
+  padding: 40px;
+}
+
+.components {
+  margin-top: 40px;
+}
+
+.components .item {
+  margin-bottom: 20px;
+  border: 1px solid #F0F0F0;
+  padding: 10px;
+}
+
+.components .desc {
+  margin-top: 10px;
+}
+
+.counter {
+  background: #F9F9F9;
+  padding: 10px;
+}
