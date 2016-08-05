@@ -1,7 +1,7 @@
 browserify-reusable-components-es6
 ==================================
 
-Simple example of creating reusable components with Browserify **using some new feature of ES6**
+Simple example of creating reusable components with Browserify **using some new features of ES6**
 
 #### Setup
 
